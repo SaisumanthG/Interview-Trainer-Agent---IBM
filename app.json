@@ -1,0 +1,12 @@
+{
+  "name": "Interview Trainer Agent",
+  "description": "AI powered interview preparation assistant using IBM Watsonx AI and LangFlow",
+  "version": "1.0",
+  "author": "Your Name",
+  "technologies": [
+    "IBM Watsonx AI",
+    "LangFlow",
+    "Python",
+    "Streamlit"
+  ]
+}
